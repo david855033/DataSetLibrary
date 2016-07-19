@@ -1,0 +1,5 @@
+D:\文件\Github\DataSetLibrary\DataSetLibrary\bin\Debug\DataSetLibrary.dll
+D:\文件\Github\DataSetLibrary\DataSetLibrary\bin\Debug\DataSetLibrary.pdb
+D:\文件\Github\DataSetLibrary\DataSetLibrary\obj\Debug\DataSetLibrary.dll
+D:\文件\Github\DataSetLibrary\DataSetLibrary\obj\Debug\DataSetLibrary.pdb
+D:\文件\Github\DataSetLibrary\DataSetLibrary\obj\Debug\DataSetLibrary.csprojResolveAssemblyReference.cache
