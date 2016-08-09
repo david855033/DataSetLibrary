@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataSetLibrary
 {
-    static class DataJoiner
+    public static class DataJoiner
     {
         static public DataSet joinData(this DataSet originDataSet, DataSet joinDataSet)
         {
